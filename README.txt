@@ -1,0 +1,3 @@
+commaseparation - takes a list of item and transforming it for a list of comma separated items
+
+invite - takes a list of email addresses, splits it and check if there was a role assigned to any of the emails. It then prints out email address with role and copy email to the clipboard. Once pasted, it takes second item from list, displays it and places in clipboard....
