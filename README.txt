@@ -1,3 +1,3 @@
-commaseparation - takes a list of item and transforming it for a list of comma separated items
+comma separation - takes a content of clipboard, extracts email addresses and transforms then into a list of comma or new line separated items, copies it back to clipboard. Run with -c for comma separation, -n for newline.
 
 invite - takes a list of email addresses, splits it and check if there was a role assigned to any of the emails. It then prints out email address with role and copy email to the clipboard. Once pasted, it takes second item from list, displays it and places in clipboard....
